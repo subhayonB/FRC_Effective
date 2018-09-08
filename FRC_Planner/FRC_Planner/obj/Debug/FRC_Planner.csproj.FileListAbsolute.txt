@@ -1,0 +1,12 @@
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\bin\Debug\FRC_Planner.exe.config
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\bin\Debug\FRC_Planner.exe
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\bin\Debug\FRC_Planner.pdb
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.csprojResolveAssemblyReference.cache
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.Form1.resources
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.Properties.Resources.resources
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.csproj.GenerateResource.Cache
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.exe
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.pdb
+c:\users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.Form2.resources
+C:\Users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.Form4.resources
+C:\Users\binku\documents\visual studio 2015\Projects\FRC_Planner\FRC_Planner\obj\Debug\FRC_Planner.Form5.resources
